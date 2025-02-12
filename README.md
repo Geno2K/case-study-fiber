@@ -1,5 +1,5 @@
 
-![topbanner](https://github.com/user-attachments/assets/fa6d2abf-12d5-4318-a88b-7f01b5b32dd3)
+![topbanner](https://github.com/user-attachments/assets/83515454-e562-47d5-bc08-ed67220c7499)
 
 # Business Intelligence Case Study: Google Fiber
 
@@ -27,7 +27,7 @@ This project began with a stakeholder meeting to discuss the background informat
 
 
 
-These documents were instrumental in guiding project forward. 
+These documents were instrumental in guiding the project from start to finish. 
 
 ## Data Source:
 

@@ -84,6 +84,7 @@ I chose a number of metrics I thought might prove useful, including a high-level
 The mockup was a great start, but I went through several iterations of the dashboard before settling on a final design I found both clean and informative. I chose to highlight seven different metrics with varying degrees of granularity.
 
 ![tabpublic_aneSYYPBdn](https://github.com/user-attachments/assets/d36754a7-3ea5-46c7-bc52-e6fbaba895f2)
+* [Interactive version](https://public.tableau.com/app/profile/tommy.demos/viz/GoogleFiber_17393798674430/GoogleFiberCallCenterAnalytics?publish=yes)
 
 In a live environment I'm sure I would iterate further based on feedback, but for the purposes of this case study I'm quite happy with this as a finished product! It does what I set out to do: provide a snapshot of insights regarding repeat call metrics that could prove invaluable to the BI team for future analysis. 
 

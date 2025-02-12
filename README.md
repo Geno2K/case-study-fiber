@@ -22,15 +22,17 @@ Project stakeholders include the hiring manager, project manager, lead BI analys
 
 ## Business Task:
 
-> Create a responsive dashboard to explore trends in repeat callers, with the ultimate goal of uncovering insights that can help the team reduce call volume, increase custoemr satisfaction, and improve operational optimization.
+> Create a responsive dashboard to explore trends in repeat callers, with the ultimate goal of uncovering insights that can help the team reduce call volume, increase customer satisfaction, and improve operational optimization.
 
 ## Project Planning:
 
 This project began with a stakeholder meeting to discuss the background information and goals. Using notes from the meeting, I created the following project planning documents.
 
+* [Stakeholder Requirements Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Stakeholder%20Requirements%20Document.md)
+* [Project Requirements Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Project%20Requirements%20Document.md)
+* [Strategy Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Strategy%20Document.md)
 
-
-These documents were instrumental in guiding the project from start to finish. 
+These documents played a key role in guiding the project from start to finish.
 
 ## Data Source:
 
@@ -73,11 +75,11 @@ The dataset contains a record of every call received at the call center, the typ
 
 ### Mockup:
 
-Using this information and everything in the project planning documents, I started work on a mock-up dashboard to serve as inspiration for the final design.
+Using this information and everything in the project planning documents, I started work on a mockup dashboard to serve as inspiration for the final design.
 
 ![Dashboard mockup](https://github.com/user-attachments/assets/9a03c31f-3d8b-434d-a1ac-aaa6e5722686)
 
-I chose a number of metrics I thought might prove useful, including a high-level overview of some of the biggest KPIs that the team could track including an overall repeat call number, as well as simple statistics on calls by problem and day. Not every aspect of the mock-up survived to the final design, but having a prototype made it a lot easier to get a foothold on the project.
+I chose a number of metrics I thought might prove useful, including a high-level overview of some of the biggest KPIs that the team could track including an overall repeat call number, as well as simple statistics on calls by problem and day. Not every aspect of the mockup survived to the final design, but having a prototype made it a lot easier to get a foothold on the project.
 
 ## Dashboard:
 
@@ -106,13 +108,13 @@ As in the mockup, I curated some higher level metrics to showcase on the left si
 
 ![tabpublic_J5S1jjYgeT](https://github.com/user-attachments/assets/74b8a945-d30e-47b0-b4cd-ba9691dfa325)
 
-The topline number of calls and repeat calls seemed particularly important to highlight. If this were a real ongoing project, I'd also make sure to highlight how these numbers changed over time or even implementing a percentage that could easily be tracked.
+The topline number of calls and repeat calls seemed particularly important to showcase. If this were a real ongoing project, I'd also make sure to emphasize how these numbers changed over time or even implementing a percentage that could easily be tracked.
 
 ![By Market](https://github.com/user-attachments/assets/fdb20b39-392b-479c-928d-a10cebd9d6c0) ![By Problem](https://github.com/user-attachments/assets/30819938-c834-468a-a52b-30f28275b4fd)
 
-Similarly, having some very simple visualizations comparing repeat calls by market and by problem type would be critical figures to track to decide on where additional resources should be allocated. As with the topline numbers, a living dataset would include even more easily trackable KPIs with rate of change indication here as well.
+Similarly, having some very simple visualizations comparing repeat calls by market and by problem type would be critical figures to track to decide on where additional resources should be allocated. As with the topline numbers, a live dataset would also include additional trackable KPIs, such as rate-of-change indicators.
 
-Of note, the donut chart is not a native Tableau visualization, but it was something I really wanted to include. I researched some advanced techniques utilizing dummy fields and a dual axis chart and was ultimately succesful in adding it!
+Of note, the donut chart is not a native Tableau visualization, but it was something I really wanted to include. I researched some advanced techniques utilizing dummy fields and a dual-axis chart and was ultimately successful in adding it!
 
 ![Legend](https://github.com/user-attachments/assets/c9f07514-5e89-40b5-a5ef-d2e9c3b10795)
 
@@ -126,15 +128,15 @@ The rest of the dashboard was dedicated to some more specific data that would be
 
 ![Repeat calls per Week](https://github.com/user-attachments/assets/671f9a35-1dda-4cb4-b256-8fcaed27019e)
 
-This is a relatively simple area chart tracking the total number of calls week by week for quarter. In this case study with a limited pool of data it is static, but if this were real and changing data, the gradient would actually be dynamic. It would change color and intensity as the team made progress on their callback KPI week by week!
+This is a relatively simple area chart tracking the total number of calls week-by-week for quarter. In this case study with a limited pool of data it is static, but if this were real and changing data, the gradient would actually be dynamic. It would change color and intensity as the team made progress on their callback KPI week by week!
 
-Despite it's visual simplictiy, it was probably the most difficult to create, as well as my favorite. Implementing a gradient effect underneath the line proved to be quite complicated and involved normalizing the data, creating a dual axis inverted chart, and mapping an image underneath. Because of the normalized data, I created an additional chart to act as the denormalized axis and made sure to use the underlying data to label each individual week as well. 
+Despite its visual simplicitiy, it was probably the most difficult to create, as well as my favorite. Implementing a gradient effect underneath the line proved to be quite complicated. It involved normalizing the data, creating a dual-axis inverted chart, and mapping an image underneath. Because of the normalized data, I created an additional chart to act as the denormalized axis and made sure to use the underlying data to label each individual week as well. 
 
 I spent more time creating this visualization than any other, but I found it a rewarding experience. I learned a lot about how powerful Tableau can be if you have a vision and commit to see it through.
 
 ![Repeat calls by Market and Problem](https://github.com/user-attachments/assets/50ccdb8f-e648-43c3-bf66-effa5036dcb6)
 
-This is the main drilldown table for any users who want more specific figures from the primary metrics. It is color coded to the number of calls in each segment which makes it very easy to spot at a glance which problems are the biggest concern in each market. It's a relatively simple table but the impact for dashboard users could prove immense.
+This is the main drilldown table, allowing users to explore more specific figures derived from the primary metrics. It is color coded to the number of calls in each segment which makes it very easy to spot at a glance which problems are the biggest concern in each market. It's a relatively simple table but the impact for dashboard users could prove immense.
 
 ![Repeat calls since First Contact](https://github.com/user-attachments/assets/3c40684a-444e-4988-9140-47d8cb138b3b)
 
@@ -152,9 +154,23 @@ With the dashboard created, I finished up the case study by distilling much of t
 
 > [Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vR0tlUPoulYz_6xCt9QsoNb6Z_9U8spE5vhzvjjV8AyqZSAzNN7ZZCxyp_-kRy_nfw-LjtCLKlo6aVU/pub?start=false&loop=false&delayms=5000)
 
+## Key Insights:
+
+One of the first things I noticed after producing the dashboard were the times when repeat calls peaked:
+* Internet and wifi issues in markets 1 and 3
+* Troubleshooting issues in market 1
+* On the first day after an initial call
+* On Mondays in general
+
+Each of these insights could be great areas to explore further for the business team to discover deficiencies in their workflow. Perhaps market 1 is overextended or was sent faulty products, perhaps the initial troubleshooting process needs more work, and perhaps the weekend support staff isn't satisfactorily solving customer issues. There could be any number of reasons, but the important thing is that these insights should help the business team know where to look. 
+
+Additionally, because the dashboard is responsive, the team will be able to track their progress as they implement various solutions in order to reduce call volume, increase customer satisfaction, and improve operational organization.
+
 ## Conclusion:
 
-I had a lot of fun on this project. It was a lot more open ended then other case studies I've worked on and working on the design of the dashboard proved to be a great opportunity to learn more about Tableau and visualization design in general. Thanks for reading!
+All in all, I found this project highly rewarding and educational. It was much more open-ended than other case studies I've worked on and designing the dashboard proved to be a great opportunity to learn more about Tableau and visualization in general. Thanks for reading!
+
+Thanks for reading!
 
 ![bottombanner](https://github.com/user-attachments/assets/53a1271f-9d79-4814-aa4c-ea8929fe491d)
 

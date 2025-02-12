@@ -1,7 +1,7 @@
 
 ![topbanner](https://github.com/user-attachments/assets/fa6d2abf-12d5-4318-a88b-7f01b5b32dd3)
 
-# Business Intelligence Case Study: Google Fiber Call Center Analytics
+# Business Intelligence Case Study: Google Fiber
 
 In this case study, I will tackle a business intelligence project from beginning to end. In addition to this overview, I've created several deliverables including project planning documents, a responsive dashboard, and an executive slide deck summarizing my findings.
 

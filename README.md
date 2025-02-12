@@ -130,7 +130,7 @@ The rest of the dashboard was dedicated to some more specific data that would be
 
 This is a relatively simple area chart tracking the total number of calls week-by-week for quarter. In this case study with a limited pool of data it is static, but if this were real and changing data, the gradient would actually be dynamic. It would change color and intensity as the team made progress on their callback KPI week by week!
 
-Despite its visual simplicitiy, it was probably the most difficult to create, as well as my favorite. Implementing a gradient effect underneath the line proved to be quite complicated. It involved normalizing the data, creating a dual-axis inverted chart, and mapping an image underneath. Because of the normalized data, I created an additional chart to act as the denormalized axis and made sure to use the underlying data to label each individual week as well. 
+Despite its straightforward appearance, this visualization was one of the most challenging to create. Implementing a gradient effect underneath the line proved to be quite complicated. It involved normalizing the data, creating a dual-axis inverted chart, and mapping an image underneath. Because of the normalized data, I created an additional chart to act as the denormalized axis and made sure to use the underlying data to label each individual week as well. 
 
 I spent more time creating this visualization than any other, but I found it a rewarding experience. I learned a lot about how powerful Tableau can be if you have a vision and commit to see it through.
 
@@ -162,15 +162,16 @@ One of the first things I noticed after producing the dashboard were the times w
 * On the first day after an initial call
 * On Mondays in general
 
-Each of these insights could be great areas to explore further for the business team to discover deficiencies in their workflow. Perhaps market 1 is overextended or was sent faulty products, perhaps the initial troubleshooting process needs more work, and perhaps the weekend support staff isn't satisfactorily solving customer issues. There could be any number of reasons, but the important thing is that these insights should help the business team know where to look. 
+These insights highlight potential areas for improvement in the team's workflow. For example, the high volume of internet and wifi issues in markets 1 and 3 could indicate regional infrastructure problems or faulty equipment. Similarly, the prevalence of troubleshooting issues in market 1 might suggest that the initial support process needs refinement. The spike in repeat calls on the first day after an initial call could point to unresolved issues or inadequate follow-up procedures. Finally, the concentration of calls on Mondays may reveal gaps in weekend support staff training or resource allocation.
 
-Additionally, because the dashboard is responsive, the team will be able to track their progress as they implement various solutions in order to reduce call volume, increase customer satisfaction, and improve operational organization.
+By addressing these areas, the team could significantly reduce repeat call volume, improve customer satisfaction, and optimize operations. Additionally, the responsive dashboard will allow them to track their progress as they implement solutions, ensuring that their efforts are data-driven and effective.
+
 
 ## Conclusion:
 
-All in all, I found this project highly rewarding and educational. It was much more open-ended than other case studies I've worked on and designing the dashboard proved to be a great opportunity to learn more about Tableau and visualization in general. Thanks for reading!
+All in all, I found this project highly rewarding and educational. It was much more open-ended than other case studies I've worked on and designing the dashboard proved to be a great opportunity to learn more about Tableau and visualization in general. 
 
-Thanks for reading!
+Thank you for taking the time to review this case study!
 
 ![bottombanner](https://github.com/user-attachments/assets/53a1271f-9d79-4814-aa4c-ea8929fe491d)
 

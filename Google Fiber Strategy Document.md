@@ -13,7 +13,7 @@
 
 **Primary dataset:** **Awaiting Delivery**
 
-## **User Profiles** Internal use only, viewable by the following team members: Emma Santiago, Keith Portone, Minna Rah, Ian Ortega, Sylvie Essa
+**User Profiles:** Internal use only, viewable by the following team members: Emma Santiago, Keith Portone, Minna Rah, Ian Ortega, Sylvie Essa
 
     
 
@@ -22,7 +22,7 @@
 | Dashboard Feature | Your Request |
 | :---- | :---- |
 | Reference dashboard  | N/A |
-| Access  | Internal use only:Emma Santiago, Keith Portone, Minna Rah, Ian Ortega, Sylvie Essa |
+| Access  | Internal use only: Emma Santiago, Keith Portone, Minna Rah, Ian Ortega, Sylvie Essa |
 | Scope  | Include: Number of repeat calls Initial contact date How long between initial and followup Reason for calling Market of caller Datetime data of calls |
 | Date filters and granularity  | Should include data filtered for week, month, and quarter.  |
 

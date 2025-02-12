@@ -164,7 +164,7 @@ One of the first things I noticed after producing the dashboard were the times w
 
 These insights highlight potential areas for improvement in the team's workflow. For example, the high volume of internet and wifi issues in markets 1 and 3 could indicate regional infrastructure problems or faulty equipment. Similarly, the prevalence of troubleshooting issues in market 1 might suggest that the initial support process needs refinement. The spike in repeat calls on the first day after an initial call could point to unresolved issues or inadequate follow-up procedures. Finally, the concentration of calls on Mondays may reveal gaps in weekend support staff training or resource allocation.
 
-By addressing these areas, the team could significantly reduce repeat call volume, improve customer satisfaction, and optimize operations. Additionally, the responsive dashboard will allow them to track their progress as they implement solutions, ensuring that their efforts are data-driven and effective.
+By addressing these areas, the team could significantly reduce repeat call volume, improve customer satisfaction, and optimize operations. Additionally, the responsive dashboard will allow them to track their progress as they implement solutions, ensuring that their efforts are data-driven and effective. These findings not only identify key pain points but also provide a clear roadmap for the team to prioritize and address the root causes of repeat calls, ultimately driving better customer experiences and operational efficiency.
 
 
 ## Conclusion:

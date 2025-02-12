@@ -6,8 +6,10 @@
 In this case study, I will tackle a business intelligence project from beginning to end. In addition to this overview, I've created several deliverables including project planning documents, a responsive dashboard, and an executive slide deck summarizing my findings.
 
 ## Project Deliverables
-
-#### Project Planning Docs
+#### **Project Planning Docs**
+* [Stakeholder Requirements Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Stakeholder%20Requirements%20Document.md)
+* [Project Requirements Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Project%20Requirements%20Document.md)
+* [Strategy Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Strategy%20Document.md)
 #### Dashboard
 #### Slide Deck
 

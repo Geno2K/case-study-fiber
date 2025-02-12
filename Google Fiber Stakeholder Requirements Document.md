@@ -4,11 +4,12 @@
 
                                                                                         
 
-## **BI Professional:** Tommy Demos
+**BI Professional:** Tommy Demos
 
-## **Client/Sponsor:** Emma Santiago, Hiring Manager
+**Client/Sponsor:** Emma Santiago, Hiring Manager
 
-## **Business problem:** How can Google Fiber increase the efficacy of their customer service call center? Why are customers calling multiple times and how can the company improve the overall customer experience?
+**Business problem:** 
+> How can Google Fiber increase the efficacy of their customer service call center? Why are customers calling multiple times and how can the company improve the overall customer experience?
 
 **Stakeholders:** 
 
@@ -18,7 +19,8 @@
 * Ian Ortega, BI Analyst  
 * Sylvie Essa, BI Analyst
 
-## **Stakeholder usage details:** Identify actionable insights that can be utilized to reduce call volume, increase customer satisfaction, and improve operational optimization.
+**Stakeholder usage details:** 
+> Identify actionable insights that can be utilized to reduce call volume, increase customer satisfaction, and improve operational optimization.
 
 **Primary requirements:** 
 

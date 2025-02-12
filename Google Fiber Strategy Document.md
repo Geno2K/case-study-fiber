@@ -1,6 +1,6 @@
 # **Strategy Document:** 
 
-# **Google Fiber Call Center BI Analytics Project**
+## **Google Fiber Call Center BI Analytics Project**
 
 **Sign-off matrix:**
 

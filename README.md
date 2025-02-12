@@ -150,7 +150,7 @@ The final drilldown visualization I added categorizes repeat calls by the day of
 
 ## Slide Deck:
 
-With the dashboard created, I finished up the case study by distilling much of the above analysis into an executive summary in the form of a slide deck. As the slides are meant to accompany a presentation and largely showcase much of the same information as this summary, I won't break it down as I did with the dashboard, but I've included a link for reference.
+With the dashboard created, I finished up the case study by distilling much of the above analysis into an executive summary in the form of a presentation and slide deck. As the slides are meant to accompany a presentation and largely showcase much of the same information as this summary, I won't break it down as I did with the dashboard, but I've included a link for reference.
 
 > [Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vR0tlUPoulYz_6xCt9QsoNb6Z_9U8spE5vhzvjjV8AyqZSAzNN7ZZCxyp_-kRy_nfw-LjtCLKlo6aVU/pub?start=false&loop=false&delayms=5000)
 

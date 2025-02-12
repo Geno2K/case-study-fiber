@@ -86,7 +86,7 @@ In a live environment I'm sure I would iterate further based on feedback, but fo
 
 Let me break down some of the design choices and individual charts and tables.
 
----
+## Breakdown:
 
 #### User Functionality
 
@@ -122,21 +122,23 @@ The rest of the dashboard was dedicated to some more specific data that would be
 
 ![Repeat calls per Week](https://github.com/user-attachments/assets/671f9a35-1dda-4cb4-b256-8fcaed27019e)
 
-Visually, this is a relatively simple area chart tracking the total number of calls week by week for quarter. In this case study with a limited pool of data it is static, but if this were real and changing data, the gradient would actually be dynamic. It would change color and intensity as the team made progress on their callback KPI week by week!
+This is a relatively simple area chart tracking the total number of calls week by week for quarter. In this case study with a limited pool of data it is static, but if this were real and changing data, the gradient would actually be dynamic. It would change color and intensity as the team made progress on their callback KPI week by week!
 
-Despite it's visual simplictiy, it was probably my favorite to create as well as the most difficult. Implementing a gradient effect underneath the line was quite complicated and involved normalizing the data, creating a dual axis inverted chart, and mapping a gradient image underneath. Because the actual visualization is using normalized data, I created an additional chart to act as the axis and made sure to use the underlying data to label each individual week. Over the course of the dashboard design process, I spent the most time creating this chart, but it was well worth it. I learned a lot about how powerful Tableau can be if you have a vision and want to see it through.
+Despite it's visual simplictiy, it was probably the most difficult to create, as well as my favorite. Implementing a gradient effect underneath the line proved to be quite complicated and involved normalizing the data, creating a dual axis inverted chart, and mapping an image underneath. Because of the normalized data, I created an additional chart to act as the denormalized axis and made sure to use the underlying data to label each individual week as well. 
+
+I spent more time creating this visualization than any other, but I found it a rewarding experience. I learned a lot about how powerful Tableau can be if you have a vision and commit to see it through.
 
 ![Repeat calls by Market and Problem](https://github.com/user-attachments/assets/50ccdb8f-e648-43c3-bf66-effa5036dcb6)
 
-This is the main drilldown table for any users who want more specific figures from the primary metrics. It is color coded to the number of calls in each segment which makes it very easy to spot at a glance which problems are the biggest concern in each market. It's a relatively simple table but the impact for the analytics team could prove massive.
+This is the main drilldown table for any users who want more specific figures from the primary metrics. It is color coded to the number of calls in each segment which makes it very easy to spot at a glance which problems are the biggest concern in each market. It's a relatively simple table but the impact for dashboard users could prove immense.
 
 ![Repeat calls since First Contact](https://github.com/user-attachments/assets/3c40684a-444e-4988-9140-47d8cb138b3b)
 
-This is a pretty important metric that lets dashboard users see how soon after an initial call customers make repeat calls and is further broken up by five problem types. The visual representation should really help dashboard users get a quick impression of when they are dealing with the most callbacks and for what problems.
+This is a fairly important metric that lets dashboard users see how soon after an initial call customers make repeat calls, further broken down by the five problem types. The visual representation should really help get a quick impression of how soon after a call the center is receiving most of their callbacks, and for what problems.
 
 ![tabpublic_wDThn4Gn8G](https://github.com/user-attachments/assets/ed3da9a5-e510-4624-85f5-2eaeebc32f98)
 
-The final drilldown visualization I added categorizes repeat calls by the day of the week that they were made, further broken down by problem type. This chart required some additional data work using calculated columns in Tableau, and shows a very clear picture that the team could use to investigate further issues with customer service by day of the week.
+The final drilldown visualization I added categorizes repeat calls by the day of the week, further broken down by problem type. This chart required some additional data work using calculated columns in Tableau, but it proved worthwhile as it shows a very clear picture that the team could use to investigate further issues with customer service by day of the week.
 
 ---
 
@@ -148,7 +150,7 @@ With the dashboard created, I finished up the case study by distilling much of t
 
 I had a lot of fun on this project. It was a lot more open ended then other case studies I've worked on and working on the design of the dashboard proved to be a great opportunity to learn more about Tableau and visualization design in general. Thanks for reading!
 
-![13dd52b2a65558104f69b81e0366d967](https://github.com/user-attachments/assets/53a1271f-9d79-4814-aa4c-ea8929fe491d)
+![bottombanner](https://github.com/user-attachments/assets/53a1271f-9d79-4814-aa4c-ea8929fe491d)
 
 
 

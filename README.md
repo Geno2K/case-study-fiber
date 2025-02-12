@@ -10,7 +10,8 @@ In this case study, I will tackle a business intelligence project from beginning
 * [Stakeholder Requirements Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Stakeholder%20Requirements%20Document.md)
 * [Project Requirements Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Project%20Requirements%20Document.md)
 * [Strategy Document](https://github.com/Geno2K/case-study-fiber/blob/main/Google%20Fiber%20Strategy%20Document.md)
-#### Dashboard
+#### **Dashboard**
+* [Dashboard](https://public.tableau.com/app/profile/tommy.demos/viz/GoogleFiber_17393798674430/GoogleFiberCallCenterAnalytics?publish=yes)
 #### Slide Deck
 
 ## Scenario:

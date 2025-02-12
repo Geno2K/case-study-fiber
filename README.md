@@ -13,7 +13,7 @@ In this case study, I will tackle a business intelligence project from beginning
 #### **Dashboard**
 * [Dashboard](https://public.tableau.com/app/profile/tommy.demos/viz/GoogleFiber_17393798674430/GoogleFiberCallCenterAnalytics?publish=yes)
 #### Slide Deck
-
+* [Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vR0tlUPoulYz_6xCt9QsoNb6Z_9U8spE5vhzvjjV8AyqZSAzNN7ZZCxyp_-kRy_nfw-LjtCLKlo6aVU/pub?start=false&loop=false&delayms=5000)
 ## Scenario:
 
 In this fictional scenario, I am tackling a BI Project for the Google Fiber Customer service team as an applicant for the company's business intelligence team. They are experiencing a high volume of repeat customer service calls at their call centers and would like me to take a look at the data and produce a dashboard that could help them find insights, implement solutions, and track their progress over time.
@@ -147,7 +147,9 @@ The final drilldown visualization I added categorizes repeat calls by the day of
 
 ## Slide Deck:
 
-With the dashboard created, I finished up the case study by distilling much of the above analysis into an executive summary in the form of a slide deck. As it repeats much of the same information I won't break it down as I did with the dashboard, but I've included a link for reference.
+With the dashboard created, I finished up the case study by distilling much of the above analysis into an executive summary in the form of a slide deck. As the slides are meant to accompany a presentation and largely showcase much of the same information as this summary, I won't break it down as I did with the dashboard, but I've included a link for reference.
+
+> [Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vR0tlUPoulYz_6xCt9QsoNb6Z_9U8spE5vhzvjjV8AyqZSAzNN7ZZCxyp_-kRy_nfw-LjtCLKlo6aVU/pub?start=false&loop=false&delayms=5000)
 
 ## Conclusion:
 
